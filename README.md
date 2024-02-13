@@ -1,7 +1,7 @@
 # Portfólio | Ingrid Souza
 
 ## 🎯Objetivo
-👩‍💻Repositório criado para disponibilizar Projetos em que trabalhei e também para compartilhar o progresso dos meus brilhantes alunos
+👩‍💻Repositório criado para disponibilizar projetos pessoais e também para compartilhar o progresso de alguns dos brilhantes alunos que tive o prazer de impulsionar🚀.
 
 [Ver projeto Portfólio](https://euingridsouza.github.io/Portfolio/)
 
