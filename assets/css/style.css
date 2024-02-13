@@ -185,33 +185,6 @@ margin-right: 250px;
 
 }
 
-/* TAMANHHO NORMAL */
-/* @media (max-width:820px) {
-    #nav-titles {
-        color: azure;
-    }
-
-    #logo {
-        width: 20%;
-        border-radius: 100%;
-        margin: 10px;
-    }
-
-    .p-titles {
-        font-family: 'Poiret One', sans-serif;
-        font-size: 3.5em;
-    }
-
-    .p-subtitle {
-        font-size: 1rem;
-        margin-top: 0;
-        padding-top: 0;
-    }
-
-    .p-subtitle img {
-        width: 30px;
-    }
-} */
 
 @media (min-width:821px) {
     #nav-titles {
@@ -352,4 +325,5 @@ footer a {
 .p-footer-contact {
     justify-content: center;
     text-align: center;
+    font-size: 20px;
 }
