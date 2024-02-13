@@ -3,7 +3,7 @@
 ## 🎯Objetivo
 👩‍💻Repositório criado para disponibilizar Projetos em que trabalhei e também para compartilhar o progresso dos meus brilhantes alunos
 
-[Ver projeto]()
+[Ver projeto Portfólio](https://euingridsouza.github.io/Portfolio/)
 
 
 
